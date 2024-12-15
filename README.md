@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <br>
    <a ><img src="https://user-images.githubusercontent.com/62745858/229376399-edede393-f1e7-4e91-8c68-d76510ece76f.png" width="100"></a><br>
@@ -156,3 +157,6 @@ This software uses the following packages:
 <a href="https://github.com/Ctere1/">
   <img src="https://contrib.rocks/image?repo=Ctere1/Ctere1" />
 </a>
+=======
+# react-chat
+>>>>>>> 2cb01513782ce8123e37ee9f9c54c2e913297b45
