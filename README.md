@@ -148,11 +148,7 @@ This software uses the following packages:
 
 [LICENSE](./LICENSE)
 
-## 📌Contributors
 
-<a href="https://github.com/Ctere1/">
-  <img src="https://contrib.rocks/image?repo=Ctere1/Ctere1" />
-</a>
 =======
 # react-chat
 >>>>>>> 2cb01513782ce8123e37ee9f9c54c2e913297b45
